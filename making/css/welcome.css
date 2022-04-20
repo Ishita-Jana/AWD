@@ -1,0 +1,58 @@
+
+
+body{
+    background-color: rgb(24, 24, 27);
+    background-image: linear-gradient(rgba(0,0,0,.35),rgba(0,0,0,.35)), url(../images/Learning.png);
+    background-position: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+.head{
+    color: #fff;
+    position: relative;
+    margin-top: 8%;
+    margin-left: 2%;
+    text-transform: uppercase;
+    font-size: 150%;
+    
+}
+
+.logo{
+    height: 30%;
+    width: 30%;
+    float:left;
+    border: 0.5px solid white;
+}
+
+.navbar{
+    width: 100%;
+    
+    padding: 15px 0px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline;
+    margin: 100px 20px;
+    left: 80%;
+    align-items:flex-end;
+    
+}
+
+.navbar  ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+
+
+
